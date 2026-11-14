@@ -9,8 +9,29 @@ TypeScript · React · Node.js · PostgreSQL · Python
 **What I'm building now**
 New projects are on their way here. Pinned repositories will show my best work.
 
-[LinkedIn](https://www.linkedin.com/in/callme-yop)
-[My Portfolio](https://callmeyop.dev/)
+<p align="left">
+  <a href="https://callmeyop.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/callme-yop">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<section>
+  🚀 About Me
+    <ul>
+      <li>💻 Full Stack Engineer passionate about building useful digital products.</li>
+      <li>🎓 Graduate in Computer Engineering.</li>
+      <li>🌍 Interested in software architecture, scalable systems, and emerging technologies.</li>
+      <li>🤖 Exploring Artificial Intelligence and practical AI integrations.</li>
+      <li>⚡ Always learning, experimenting, and building new things.</li>
+      <li>🎯 My goal: turn complex ideas into simple, reliable, and scalable solutions.</li>
+    </ul>
+</section>
 
 <details>
 <summary>Deutsche Version</summary>
