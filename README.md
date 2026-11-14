@@ -113,10 +113,16 @@ Modern ordering platform for Cameroon's premier chicken restaurant chain.
 
 <img width="70%" src="https://streak-stats.demolab.com/?user=callmeyop&theme=tokyonight&hide_border=true" />
 
+
 ### 📈 Contribution Activity Graph
 
-<!-- BEGIN ACTIVITY-GRAPH -->
-<!-- END ACTIVITY-GRAPH -->
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-phi.vercel.app/graph?username=callmeyop&theme=tokyo-night&hide_border=true&area=true"
+    alt="Yohann's GitHub Activity Graph"
+  />
+</p>
 
 </div>
 
