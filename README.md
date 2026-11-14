@@ -20,3 +20,14 @@ Diplômé en génie informatique, je me concentre aujourd'hui sur TypeScript et 
 **Technologies** : TypeScript · React · Node.js · PostgreSQL · Python
 
 </details>
+
+<details>
+<summary>Deutsche Version</summary>
+
+Full-Stack-Entwickler mit 5 Jahren Erfahrung in der Entwicklung von Web-, Mobile- und Backend-Anwendungen.
+
+Mit einem Abschluss in Informatik konzentriere ich mich derzeit auf TypeScript und die Entwicklung robuster, produktionsreifer KI-Funktionen.
+
+**Technologien**: TypeScript · React · Node.js · PostgreSQL · Python
+
+</details>
