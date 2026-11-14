@@ -1,196 +1,133 @@
-# 👋 Hey, I'm Yohann Pokam!
+# Hi 👋 I'm Yohann Pokam
 
-### Software Engineer · Full Stack Developer · AI Enthusiast
+**Full Stack Engineer | Software Architect | AI Enthusiast**  
+🇫🇷 Based in Bonn, Germany | 5 years building web, mobile & backend solutions
 
-<p align="center">
-  <a href="https://callmeyop.dev">
-    <img src="https://img.shields.io/badge/Portfolio-callmeyop.dev-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/callme-yop">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:contact@callmeyop.dev">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-callmeyop.dev-0C1228?style=for-the-badge&logo=globe&logoColor=white)](https://callmeyop.dev)
+[![Email](https://img.shields.io/badge/Email-contact@callmeyop.dev-0C1228?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@callmeyop.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@callme--yop-0C1228?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/callme-yop)
 
 ---
 
-## 🚀 About Me
+## 🎯 About Me
 
-I'm **Yohann Pokam**, a Full Stack Engineer with 5 years of experience building web, mobile, and backend applications.
+I'm a **Full Stack Engineer** who designs and develops **complete digital products** — from scalable backend systems and APIs to modern user interfaces and mobile experiences.
 
-I hold a degree in Computer Engineering and enjoy designing and developing complete digital products, from backend architecture and APIs to modern user interfaces and mobile experiences.
-
-I'm currently focused on the TypeScript ecosystem, scalable software architecture, and AI-powered applications.
-
-- 💻 Full Stack Web & Mobile Development.
-- ⚡ TypeScript, JavaScript and modern frameworks.
-- 🔧 Backend engineering and API development.
-- 🤖 Artificial Intelligence and intelligent applications.
-- 🏗️ Software architecture and scalable solutions.
-- 🌍 Based in Bonn, Germany.
-- 🤝 Open to interesting projects and collaborations.
+**What I do:**
+- 🏗️ Design and build end-to-end software solutions
+- ⚙️ Develop robust backend systems with TypeScript, Node.js, NestJS, Laravel
+- 🎨 Create intuitive, performant UIs with React, Next.js, Tailwind CSS
+- 📱 Build cross-platform mobile apps with React Native / Expo
+- 🤖 Integrate AI features that actually work in production
+- 🔐 Write secure, maintainable, well-tested code
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 ### Frontend Development
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,html,css,tailwind&perline=8" />
-  </a>
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React Native](https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel&perline=6" />
-  </a>
-</p>
+### Database & Data
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-### Database
+### AI & ML
+![Mistral AI](https://img.shields.io/badge/Mistral_AI-000000?style=flat-square&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B6?style=flat-square&logoColor=white)
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres&perline=6" />
-  </a>
-</p>
-
-### Tools & Design
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vercel,cloudflare,figma,ps&perline=6" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=callmeyop&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=callmeyop&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=callmeyop&theme=tokyonight&hide_border=true" />
-</p>
-
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=callmeyop&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
+### **[Minguili](https://callmeyop.dev/en/projects/minguili/)** – Gifts & Services Platform
+Full-stack e-commerce app for Cameroon's gift market. Native iOS/Android app, REST API, and admin dashboard.  
+**Stack:** Expo • React Native • TypeScript • NestJS • PostgreSQL • Vercel
+
+### **[SkillMatch AI](https://callmeyop.dev/en/projects/skillmatch-ai/)** – Career Guidance Platform
+AI-powered platform that helps students choose careers through intelligent analysis.  
+**Stack:** Laravel • PHP • MySQL • Python • Mistral AI • Bootstrap
+
+### **[LBC Championnats](https://callmeyop.dev/en/projects/lbc-championnats/)** – Basketball League Management
+Real-time standings, fixtures, and league administration dashboard.  
+**Stack:** Next.js • React • TypeScript • Tailwind • PostgreSQL • Prisma
+
+### **[La Force du Poulet](https://callmeyop.dev/en/projects/force-du-poulet/)** – Restaurant Ordering System
+Modern ordering platform for Cameroon's premier chicken restaurant chain.  
+**Stack:** Next.js • React • TypeScript • Tailwind • OpenStreetMap
 
 ---
 
-## 📈 Contribution Activity
+## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/callmeyop">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=callmeyop&theme=tokyo-night&hide_border=true&area=true" />
-  </a>
-</p>
+<div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=callmeyop&show_icons=true&theme=dark&bg_color=0C1228&title_color=FFFDFF&text_color=FFFDFF&icon_color=1A3278&border_color=3D4F91&hide_border=false&include_all_commits=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=callmeyop&layout=compact&theme=dark&bg_color=0C1228&title_color=FFFDFF&text_color=FFFDFF&border_color=3D4F91&hide_border=false)
 
-## 🎯 Current Focus
-
-- ⚛️ Building modern applications with React and Next.js.
-- 🔧 Developing scalable backend systems with Node.js and NestJS.
-- 🤖 Exploring AI integrations and intelligent applications.
-- 📱 Creating cross-platform mobile experiences.
-- 🧠 Improving software architecture and engineering practices.
+</div>
 
 ---
 
 ## 🌍 Languages
 
-- 🇫🇷 French
-- 🇬🇧 English
-- 🇩🇪 German
+🇫🇷 **French** — Native  
+🇬🇧 **English** — Fluent  
+🇩🇪 **German** — Working Proficiency
 
 ---
 
-## 🤝 Let's Connect!
+## ✨ What I Value
 
-I'm always open to interesting projects, technical challenges, and opportunities to collaborate with other developers.
-
-<p align="center">
-  <a href="https://callmeyop.dev">
-    <img src="https://img.shields.io/badge/Website-callmeyop.dev-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/callme-yop">
-    <img src="https://img.shields.io/badge/LinkedIn-Yohann_Pokam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:contact@callmeyop.dev">
-    <img src="https://img.shields.io/badge/Email-contact%40callmeyop.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  📍 Bonn, Germany · Open to Remote Opportunities
-</p>
+- **Clean Code** — Readable, maintainable, and well-tested
+- **Performance** — Every byte counts, especially on mobile
+- **User Experience** — Design that serves, not decorates
+- **Scalability** — Systems that grow without breaking
+- **Security** — Privacy and protection by default
 
 ---
 
-<details>
-<summary>🇫🇷 Version française</summary>
+## 🤝 Let's Connect
 
-## À propos de moi
+Always interested in:
+- Challenging technical problems
+- Building products that matter
+- Collaborating with talented developers
+- Mentoring and learning from others
 
-Je suis Yohann Pokam, ingénieur Full Stack avec 5 ans d'expérience dans le développement d'applications web, mobiles et backend.
+<div align="center">
 
-Diplômé en génie informatique, je suis passionné par la conception de solutions numériques modernes, performantes et évolutives.
-
-Je me concentre actuellement sur l'écosystème TypeScript, l'architecture logicielle et le développement d'applications intégrant l'intelligence artificielle.
-
-**Mes domaines d'intérêt :**
-
-- Développement Full Stack et mobile.
-- Architecture logicielle et APIs.
-- Intelligence artificielle.
-- Développement backend.
-- Conception de solutions évolutives.
-
-Portfolio : https://callmeyop.dev
-
-</details>
-
-<details>
-<summary>🇩🇪 Deutsche Version</summary>
-
-## Über mich
-
-Ich bin Yohann Pokam, Full-Stack-Entwickler mit 5 Jahren Erfahrung in der Entwicklung von Web-, Mobile- und Backend-Anwendungen.
-
-Mit einem Abschluss in Informatik interessiere ich mich besonders für moderne Softwarearchitekturen, skalierbare Anwendungen und innovative digitale Lösungen.
-
-Derzeit konzentriere ich mich auf das TypeScript-Ökosystem, Softwarearchitektur und die Integration von KI-Funktionen.
-
-**Meine Interessen:**
-
-- Full-Stack- und Mobile-Entwicklung.
-- Softwarearchitektur und APIs.
-- Künstliche Intelligenz.
-- Backend-Entwicklung.
-- Skalierbare Anwendungen.
-
-Portfolio: https://callmeyop.dev
-
-</details>
+📧 [contact@callmeyop.dev](mailto:contact@callmeyop.dev)  
+🌐 [callmeyop.dev](https://callmeyop.dev)  
+💼 [LinkedIn](https://linkedin.com/in/callme-yop)
 
 ---
 
-<p align="center">
-  <i>Building useful things, one line of code at a time. 🚀</i>
-</p>
+**Let's build something great together! 🚀**
+
+</div>
