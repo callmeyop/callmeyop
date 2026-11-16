@@ -130,9 +130,9 @@ Modern ordering platform for Cameroon's premier chicken restaurant chain.
 
 ## 🌍 Languages
 
-- 🇫🇷 **French** — Native
-- 🇬🇧 **English** — Basic
-- 🇩🇪 **German** — Fluent
+- 🇫🇷 **French** Native
+- 🇬🇧 **English** Basic
+- 🇩🇪 **German** Fluent
 
 ---
 
