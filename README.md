@@ -74,7 +74,7 @@ I'm a **Full Stack Engineer** who designs and develops **complete digital produc
 ## 🌍 Languages
 
 🇫🇷 **French** Native  
-🇬🇧 **English** Fluent  
+🇬🇧 **English** Basis  
 🇩🇪 **German** Fluent
 
 ---
